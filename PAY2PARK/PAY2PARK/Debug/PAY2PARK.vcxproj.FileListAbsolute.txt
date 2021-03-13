@@ -1,0 +1,5 @@
+D:\github projects\PAY2PARK\PAY2PARK\Debug\PAY2PARK.SPLASH.resources
+D:\github projects\PAY2PARK\PAY2PARK\Debug\PAY2PARK.vcxproj.GenerateResource.cache
+D:\github projects\PAY2PARK\PAY2PARK\Debug\PAY2PARK.exe
+D:\github projects\PAY2PARK\PAY2PARK\Debug\PAY2PARK.vcxprojAssemblyReference.cache
+D:\github projects\PAY2PARK\PAY2PARK\Debug\PAY2PARK.main_view.resources
